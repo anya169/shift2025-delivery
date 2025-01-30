@@ -65,8 +65,7 @@ dependencies {
 
     // Асинхронное программирование
     implementation(libs.kotlinx.coroutines.android)
-    implementation(project(":app"))
-    implementation(project(":app"))
+
 
     // Unit-тестирование
     testImplementation(libs.junit)
